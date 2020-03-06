@@ -1,0 +1,10 @@
+Mouse Cursor Disappared in Windows
+1) Try combination of below keys first
+fn+f3 or fn+f9 or fn+f11
+
+2) Update the Mouse driver
+	a) Press Win button, type Device Manager. Press Enter on Device Manager
+	b) Press Tab and Find "Mice and other pointing devices"
+	c) Upon that press, right arrow. You can find Warning Symbol on HID compliant mouse
+	d) Press Shift + F10 over that, it will ask update driver, Disable device etc.
+	e) Press update driver, once update done your can see the pointer.
